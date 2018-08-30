@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestauranteAlarcón</string>
+    <string name="title_activity_maps">Ubación de sedes</string>
+
+    <string name="title1">ComidaUno</string>
+    <string name="descripcion1">Carne tres cuartos bien asadita a lo que marca</string>
+
+    <string name="title2">ComidaDos</string>
+    <string name="descripcion2">Carne tres cuartos, con sobrebarriga</string>
+</resources>
