@@ -2,9 +2,9 @@
     <string name="app_name">RestauranteAlarcón</string>
     <string name="title_activity_maps">Ubación de sedes</string>
 
-    <string name="title1">ComidaUno</string>
-    <string name="descripcion1">Carne tres cuartos bien asadita a lo que marca</string>
+    <string name="title1">Hamburguesa</string>
+    <string name="descripcion1">Carne al término que lo desee, viene con papas fritas y una helada y deliciosa CocaCola.</string>
 
-    <string name="title2">ComidaDos</string>
-    <string name="descripcion2">Carne tres cuartos, con sobrebarriga</string>
+    <string name="title2">Pizza</string>
+    <string name="descripcion2">La clásica pizza, con un queso importado que, se derretirá en tu boca.</string>
 </resources>
