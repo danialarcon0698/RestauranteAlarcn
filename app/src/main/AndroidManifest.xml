@@ -41,7 +41,8 @@
             android:label="@string/title_activity_maps" />
         <activity android:name=".MenuActivity" />
         <activity android:name=".ReservaActivity" />
-        <activity android:name=".ServicioActivity"></activity>
+        <activity android:name=".ServicioActivity" />
+        <activity android:name=".ListaComplejaEntrada"></activity>
     </application>
 
 </manifest>
