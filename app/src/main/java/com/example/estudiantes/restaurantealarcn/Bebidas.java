@@ -2,7 +2,6 @@ package com.example.estudiantes.restaurantealarcn;
 
 import android.app.ListActivity;
 import android.content.Context;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -48,7 +47,7 @@ public class Bebidas extends ListActivity {
 
         mNodeB1.mTitulo = this.getResources().getString(R.string.title5);
         mNodeB1.mDescripcion = this.getResources().getString(R.string.descripcion5);
-        mNodeB1.mImagen = R.drawable.B1;
+        mNodeB1.mImagen = R.drawable.bebida1;
 
         mArray.add(mNodeB1);
 
@@ -57,7 +56,7 @@ public class Bebidas extends ListActivity {
 
         mNodeB2.mTitulo = this.getResources().getString(R.string.title6);
         mNodeB2.mDescripcion = this.getResources().getString(R.string.descripcion6);
-        mNodeB2.mImagen = R.drawable.B2;
+        mNodeB2.mImagen = R.drawable.bebida2;
 
         mArray.add(mNodeB2);
     }

@@ -3,21 +3,21 @@
     <string name="title_activity_maps">Ubación de sedes</string>
 
     //Entrada
-    <string name="title1">pan de ajo</string>
+    <string name="title1">pan</string>
     <string name="descripcion1">delicioso pan.</string>
 
-    <string name="title2">aros de cebolla</string>
+    <string name="title2">aros</string>
     <string name="descripcion2">deliciosa cbolla, frita.</string>
 
     //Plato fuerte
     <string name="title3">pescado</string>
     <string name="descripcion3">viene con ensalada, un delicioso limón.</string>
 
-    <string name="title4">camarones al ajillo</string>
+    <string name="title4">camarones</string>
     <string name="descripcion4">camarones al ajillo, son bastantes, no quedarás con hambre.</string>
 
     //Bebidas
-    <string name="title5">té frío</string>
+    <string name="title5">té</string>
     <string name="descripcion5">te negro, con sabor manzana.</string>
 
     <string name="title6">jugo de mango en leche</string>

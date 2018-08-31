@@ -2,7 +2,6 @@ package com.example.estudiantes.restaurantealarcn;
 
 import android.app.ListActivity;
 import android.content.Context;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -48,7 +47,7 @@ public class ListaComplejaPostres extends ListActivity {
 
         mNodeP1.mTitulo = this.getResources().getString(R.string.postre);
         mNodeP1.mDescripcion = this.getResources().getString(R.string.descripcion7);
-        mNodeP1.mImagen = R.drawable.P1;
+        mNodeP1.mImagen = R.drawable.postre1;
 
         mArray.add(mNodeP1);
 
@@ -57,7 +56,7 @@ public class ListaComplejaPostres extends ListActivity {
 
         mNodeP2.mTitulo = this.getResources().getString(R.string.postre2);
         mNodeP2.mDescripcion = this.getResources().getString(R.string.descripcion8);
-        mNodeP2.mImagen = R.drawable.P2;
+        mNodeP2.mImagen = R.drawable.postre2;
 
         mArray.add(mNodeP2);
     }

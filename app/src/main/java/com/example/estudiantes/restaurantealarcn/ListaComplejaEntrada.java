@@ -47,7 +47,7 @@ public class ListaComplejaEntrada extends ListActivity {
 
         mNode.mTitulo = this.getResources().getString(R.string.title1);
         mNode.mDescripcion = this.getResources().getString(R.string.descripcion1);
-        mNode.mImagen = R.drawable.PanDeAjo;
+        mNode.mImagen = R.drawable.pan;
 
         mArray.add(mNode);
 
@@ -56,7 +56,7 @@ public class ListaComplejaEntrada extends ListActivity {
 
         mNode2.mTitulo = this.getResources().getString(R.string.title2);
         mNode2.mDescripcion = this.getResources().getString(R.string.descripcion2);
-        mNode2.mImagen = R.drawable.Aros;
+        mNode2.mImagen = R.drawable.aros;
 
         mArray.add(mNode2);
     }
