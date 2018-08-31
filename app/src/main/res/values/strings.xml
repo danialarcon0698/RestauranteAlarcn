@@ -3,30 +3,30 @@
     <string name="title_activity_maps">Ubación de sedes</string>
 
     //Entrada
-    <string name="title1">Pan de ajo</string>
-    <string name="descripcion1">Delicioso pan.</string>
+    <string name="title1">pan de ajo</string>
+    <string name="descripcion1">delicioso pan.</string>
 
-    <string name="title2">Aros de cebolla</string>
-    <string name="descripcion2">Deliciosa cbolla, frita.</string>
+    <string name="title2">aros de cebolla</string>
+    <string name="descripcion2">deliciosa cbolla, frita.</string>
 
     //Plato fuerte
-    <string name="title3">Pescado</string>
-    <string name="descripcion3">Viene con ensalada, un delicioso limón.</string>
+    <string name="title3">pescado</string>
+    <string name="descripcion3">viene con ensalada, un delicioso limón.</string>
 
-    <string name="title4">Camarones al ajillo</string>
-    <string name="descripcion4">Camarones al ajillo, son bastantes, no quedarás con hambre.</string>
+    <string name="title4">camarones al ajillo</string>
+    <string name="descripcion4">camarones al ajillo, son bastantes, no quedarás con hambre.</string>
 
     //Bebidas
-    <string name="title5">Té frío</string>
-    <string name="descripcion5">Te negro, con sabor manzana.</string>
+    <string name="title5">té frío</string>
+    <string name="descripcion5">te negro, con sabor manzana.</string>
 
-    <string name="title6">Jugo de mango en leche</string>
-    <string name="descripcion6">Jugo de mango en leche, puede ser deslactosada.</string>
+    <string name="title6">jugo de mango en leche</string>
+    <string name="descripcion6">jugo de mango en leche, puede ser deslactosada.</string>
 
     //Postres
-    <string name="postre">Postre de maracuyá</string>
-    <string name="descripcion7">Postre con base en leche, hecho de pulpas de maracuyá.</string>
+    <string name="postre">postre de maracuyá</string>
+    <string name="descripcion7">postre con base en leche, hecho de pulpas de maracuyá.</string>
 
-    <string name="postre2">Postre de milo</string>
-    <string name="descripcion8">Postre hecho de milo, leche y galletas.</string>
+    <string name="postre2">postre de milo</string>
+    <string name="descripcion8">postre hecho de milo, leche y galletas.</string>
 </resources>
