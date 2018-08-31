@@ -2,6 +2,7 @@ package com.example.estudiantes.restaurantealarcn;
 
 import android.app.ListActivity;
 import android.content.Context;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,7 +15,7 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-public class ListaComplejaEntrada extends ListActivity {
+public class ListaComplejaPostres extends ListActivity {
 
     private MyAdapter myAdapter = null;
 
@@ -43,22 +44,22 @@ public class ListaComplejaEntrada extends ListActivity {
         mArray.clear();
 
         //Item1
-        Node mNode = new Node();
+        Node mNodeP1 = new Node();
 
-        mNode.mTitulo = this.getResources().getString(R.string.title1);
-        mNode.mDescripcion = this.getResources().getString(R.string.descripcion1);
-        mNode.mImagen = R.drawable.PanDeAjo;
+        mNodeP1.mTitulo = this.getResources().getString(R.string.postre);
+        mNodeP1.mDescripcion = this.getResources().getString(R.string.descripcion7);
+        mNodeP1.mImagen = R.drawable.P1;
 
-        mArray.add(mNode);
+        mArray.add(mNodeP1);
 
         //Item2
-        Node mNode2 = new Node();
+        Node mNodeP2 = new Node();
 
-        mNode2.mTitulo = this.getResources().getString(R.string.title2);
-        mNode2.mDescripcion = this.getResources().getString(R.string.descripcion2);
-        mNode2.mImagen = R.drawable.Aros;
+        mNodeP2.mTitulo = this.getResources().getString(R.string.postre2);
+        mNodeP2.mDescripcion = this.getResources().getString(R.string.descripcion8);
+        mNodeP2.mImagen = R.drawable.P2;
 
-        mArray.add(mNode2);
+        mArray.add(mNodeP2);
     }
 
     public static class MyAdapter extends BaseAdapter {
@@ -89,7 +90,7 @@ public class ListaComplejaEntrada extends ListActivity {
 
             if (convertView == null){
                 LayoutInflater inflater = (LayoutInflater) mContext.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-                view = inflater.inflate(R.layout.activity_lista_compleja_entrada, null);
+                view = inflater.inflate(R.layout.activity_lista_compleja_postres, null);
             }
             else {
                 view = convertView;

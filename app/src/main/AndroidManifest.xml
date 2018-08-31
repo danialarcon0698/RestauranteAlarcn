@@ -42,7 +42,10 @@
         <activity android:name=".MenuActivity" />
         <activity android:name=".ReservaActivity" />
         <activity android:name=".ServicioActivity" />
-        <activity android:name=".ListaComplejaEntrada"></activity>
+        <activity android:name=".ListaComplejaEntrada" />
+        <activity android:name=".ListaComplejaPlatoFuerte" />
+        <activity android:name=".Bebidas" />
+        <activity android:name=".ListaComplejaPostres"></activity>
     </application>
 
 </manifest>

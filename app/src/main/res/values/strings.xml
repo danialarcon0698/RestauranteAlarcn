@@ -2,9 +2,31 @@
     <string name="app_name">RestauranteAlarcón</string>
     <string name="title_activity_maps">Ubación de sedes</string>
 
-    <string name="title1">Hamburguesa</string>
-    <string name="descripcion1">Carne al término que lo desee, viene con papas fritas y una helada y deliciosa CocaCola.</string>
+    //Entrada
+    <string name="title1">Pan de ajo</string>
+    <string name="descripcion1">Delicioso pan.</string>
 
-    <string name="title2">Pizza</string>
-    <string name="descripcion2">La clásica pizza, con un queso importado que, se derretirá en tu boca.</string>
+    <string name="title2">Aros de cebolla</string>
+    <string name="descripcion2">Deliciosa cbolla, frita.</string>
+
+    //Plato fuerte
+    <string name="title3">Pescado</string>
+    <string name="descripcion3">Viene con ensalada, un delicioso limón.</string>
+
+    <string name="title4">Camarones al ajillo</string>
+    <string name="descripcion4">Camarones al ajillo, son bastantes, no quedarás con hambre.</string>
+
+    //Bebidas
+    <string name="title5">Té frío</string>
+    <string name="descripcion5">Te negro, con sabor manzana.</string>
+
+    <string name="title6">Jugo de mango en leche</string>
+    <string name="descripcion6">Jugo de mango en leche, puede ser deslactosada.</string>
+
+    //Postres
+    <string name="postre">Postre de maracuyá</string>
+    <string name="descripcion7">Postre con base en leche, hecho de pulpas de maracuyá.</string>
+
+    <string name="postre2">Postre de milo</string>
+    <string name="descripcion8">Postre hecho de milo, leche y galletas.</string>
 </resources>

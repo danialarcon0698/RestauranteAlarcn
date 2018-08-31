@@ -39,6 +39,18 @@ public class MenuActivity extends ListActivity {
                 Intent intencion = new Intent(this, ListaComplejaEntrada.class);
                 startActivity(intencion);
                 break;
+            case 1:
+                Intent intencion2 = new Intent(this, ListaComplejaPlatoFuerte.class);
+                startActivity(intencion2);
+                break;
+            case  2:
+                Intent intencion3 = new Intent(this, Bebidas.class);
+                startActivity(intencion3);
+                break;
+            case  3:
+                Intent intencion4 = new Intent(this, ListaComplejaPostres.class);
+                startActivity(intencion4);
+                break;
             default:
                     break;
         }
