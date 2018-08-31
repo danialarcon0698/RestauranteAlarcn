@@ -95,6 +95,7 @@ public class ListaComplejaPostres extends ListActivity {
                 view = convertView;
             }
 
+
             ImageView img = (ImageView) view.findViewById(R.id.image);
             img.setImageDrawable(mContext.getResources().getDrawable(mArray.get(position).mImagen));
 
